@@ -44,3 +44,17 @@ h3 {
   color: black;
   font-size: 14px;
 }
+
+.footer-image {
+  height: 50px;
+  width: 100%;
+}
+
+.heading4 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  left: 600px;
+  top: 860px;
+  position: absolute;
+}
