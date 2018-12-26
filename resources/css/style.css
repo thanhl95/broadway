@@ -1,0 +1,46 @@
+body {
+  font-family: helvetica;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: black;
+}
+
+.hero-image {
+  position: relative;
+  width: auto;
+  height: 300px;
+}
+
+.navigation {
+  position: absolute;
+  text-align: center;
+  top: -40px;
+  left: 425px;
+}
+
+.navigation-options {
+  font-size: 18px;
+  color: white;
+  text-decoration: underline;
+}
+
+.body-text {
+  color: black;
+  font-size: 14px;
+}
